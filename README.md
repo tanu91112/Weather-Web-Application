@@ -37,7 +37,7 @@ Weather-Web-Application/
 ├── index.html
 ├── style.css
 ├── script.js
-├── 321462c4-497d-4229-a556-59c2859dc9c2.png (Screenshot Image)
+├── weather.png (Screenshot Image)
 └── README.md
 ```
 
@@ -99,7 +99,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 Made with ❤️ by **[Your Name]**  
-[GitHub Profile](https://github.com/tanu91112) • [LinkedIn](www.linkedin.com/in/tanu-chandravanshi-338940251) • [Email](tanuchandravanshi@gmail.com)
+[GitHub Profile](https://github.com/tanu91112) • [LinkedIn](www.linkedin.com/in/tanu-chandravanshi-338940251) • [Email](tanuchandravanshi9@gmail.com)
 
 ---
 
