@@ -6,7 +6,7 @@ Welcome to **Weather 360** — a beautiful, responsive weather web application t
 
 ## 📸 Preview
 
-![Weather 360 Screenshot](./321462c4-497d-4229-a556-59c2859dc9c2.png)
+![Weather 360 Screenshot](weather.png)
 
 ---
 
